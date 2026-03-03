@@ -1,0 +1,21 @@
+González Arellano María Fernanda
+
+Paso 1
+- Explica en entregable.txt qué es lo que hace bg-dark y escribe el color hexadecimal del fondo del navbar
+bg-dark hace que el color de fondo sea negro. El color hexadecimal del fondo del navbar
+es #000000
+
+Paso 2
+- ¿qué es lo que permite que en el formulario la contraseña esté oculta?
+Lo que permite que en el formulario la contraseña esté oculta en el formulario es el
+atributo type="password" 
+
+Paso 5
+- ¿Dónde deberías agregar CSS en el documento si modificas el estilo de alguna clase? 
+El CSS debe agregarse en un archivo externo como style.css y enlazarse en el head del documento.
+
+- ¿Bootstrap incorpora algún mecanismo para realizar los cambios del paso 4? 
+Sí, Bootstrap permite modificar estilos usando clases como bg-dark, btn-dark, bg-opacity, etc.
+
+- ¿Cómo cambiarias el fondo por un video?
+Sí, Bootstrap permite modificar estilos usando clases como bg-dark, btn-dark, bg-opacity, etc.
