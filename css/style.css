@@ -1,0 +1,23 @@
+
+body{
+    background-image: url("../img/signIn.png");
+    background-size: cover;
+    background-position: center;
+    /*Centra la imagen*/
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.55);
+    /*El último número es la transparencia*/
+}
+
+.mi-boton {
+    background-color:#212529;
+    border: 2px solid black;
+    color: white;
+}
+
+.mi-boton:hover { /*Cuándo el mouse esté encima...*/
+    background-color: green;
+    border-color: #1a1e21;
+    color: black;
+}
